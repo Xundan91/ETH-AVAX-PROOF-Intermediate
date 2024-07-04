@@ -8,7 +8,8 @@ this contract depicts an decentralized exchange where you can deposit/withdraw y
 
 ## Executing program
 
-1. Inside the project directory, in the terminal type: `npm i`
+Make sure you have install Nodejs.
+1. Inside the project directory, in the terminal type: `npm install`
 2. Open two additional terminals in your VS code
 3. In the second terminal type: `npx hardhat node`
 4. In the third terminal, type: `npx hardhat run --network localhost scripts/deploy.js`
@@ -16,3 +17,11 @@ this contract depicts an decentralized exchange where you can deposit/withdraw y
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Authors(Contributors names)
+
+kundan kumar
+
+## License
+
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
