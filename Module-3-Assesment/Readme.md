@@ -14,7 +14,6 @@ MyToken is a customizable ERC20 token implemented using OpenZeppelin's ERC20 and
 
 #### How/where to download your program
 
-You can download the project source code from the GitHub repository: [module-3 GitHub Repository](https://github.com/aanubhavv/Eth-Avax-proof-metacrafter/blob/main/module-3-assessment/withLibrary.sol).
 
 #### Any modifications needed to be made to files/folders
 
@@ -34,7 +33,7 @@ No specific modifications are needed. Ensure you have the correct versions of th
 
 3. **Copy and paste the contract code:**
 
-    Copy the following code into the `withLibrary.sol` file:
+    Copy the following code into the `WithLibrary.sol` file:
 
     ```solidity
     // SPDX-License-Identifier: MIT
@@ -73,7 +72,7 @@ No specific modifications are needed. Ensure you have the correct versions of th
     - Click on the "Deploy & Run Transactions" tab on the left sidebar.
     - Ensure "Environment" is set to "Injected Web3" to use MetaMask, or "Remix VM (London)" for a local deployment.
     - Select the `MyToken` contract from the "Contract" dropdown.
-    - Provide the constructor arguments: the name and symbol of your token (e.g., "MyToken", "MTK").
+    - Provide the constructor arguments: the name and symbol of your token (e.g., "MyToken", "Spyx").
     - Click "Deploy".
 
 6. **Interact with the contract:**
@@ -108,7 +107,8 @@ Any advice for common problems or issues.
 
 ## Authors
 
-kundansingh023230@gmail.com
+- Kundan Kumar
+- kundansingh023230@gmail.com
 
 
 ## License
